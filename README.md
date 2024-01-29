@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dilker
-- 👀 I’m interested in modding,desktop applications and creating games
+- 👀 I’m interested in modding,desktop applications, webdevelopment and creating games, looking forward to be a full stack software engineer.
 - 🌱 I’m currently learning python, java, c++, javascript, angular, css and html.
