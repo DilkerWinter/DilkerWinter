@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vue |Angular | PostgresSQL | MySQL </strong>
+  💼 Ferramentas: <strong>Vue | Angular | PostgresSQL | MySQL </strong>
 </p>
 
 <p align="left">
