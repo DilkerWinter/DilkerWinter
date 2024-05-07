@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Angular | PostgresSQL | Java Spring </strong>
+  💼 Ferramentas: <strong>Angular | PostgresSQL | Java Spring | Tailwind</strong>
 </p>
 
 <p align="left">
