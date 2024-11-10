@@ -3,7 +3,7 @@
 </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" valign="top"> 
 <p align="left"> 
-  Bem vindo, sou estudante de <strong>Engenharia de Software</strong> e desenvolvedor <strong>FullStack</strong>
+  Bem vindo, sou um <strong>Engenheiro de Software</strong> e desenvolvedor <strong>FullStack / Mobile</strong> 
 </p>
 
 <p align="left">
@@ -11,12 +11,12 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Angular | PostgresSQL | Java Spring</strong>
+  💼 Ferramentas: <strong>Angular | Java Spring | Flutter</strong>
 </p>
 
 <p align="left">
-  📨 Entre em contato: ⤵️
+  📨 Entre em contato: <a href="https://www.linkedin.com/in/bruno-winter-8b2287292/" title="LinkedIn">
 </p>
 
-<a href="https://www.linkedin.com/in/bruno-winter-8b2287292/" title="LinkedIn">
+
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
