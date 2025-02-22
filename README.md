@@ -15,8 +15,8 @@
 </p>
 
 <p align="left">
-  📨 Entre em contato: <a href="https://www.linkedin.com/in/bruno-winter-8b2287292/" title="LinkedIn">
+  📨 Entre em contato: <a href="https://www.linkedin.com/in/brunowinter/" title="LinkedIn">
 </p>
 
-
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunowinter/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunohdwinter@gmail.com)
