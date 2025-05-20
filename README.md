@@ -7,11 +7,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: Java | Dart | JavaScript
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Angular | Java Spring | Flutter</strong>
+  💻 Linguagens: Java | Spring | Flutter
 </p>
 
 <p align="left">
