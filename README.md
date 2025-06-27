@@ -3,11 +3,11 @@
 </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" valign="top"> 
 <p align="left"> 
-  Bem vindo, sou um <strong>Engenheiro de Software</strong> e desenvolvedor <strong>Backend / Mobile</strong> 
+  Bem vindo, sou um <strong>Engenheiro de Software</strong> e desenvolvedor <strong>Fullstack / Mobile</strong> 
 </p>
 
 <p align="left">
-  💻 Linguagens: Java | Spring | Flutter
+  💻 Linguagens: PHP | Java | Flutter
 </p>
 
 <p align="left">
