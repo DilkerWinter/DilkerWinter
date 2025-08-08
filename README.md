@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🛠️ Frameworks: Laravel | SpringBoot | React | Vue
+  🛠️ Frameworks: Laravel | SpringBoot | React | Vue | Flutter
 </p>
 
 <p align="left">
