@@ -7,15 +7,15 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: PHP | Java | Dart | TypeScript
+  💻 Linguagens: PHP | TypeScript | Java
 </p>
 
 <p align="left">
-  🛠️ Frameworks: Laravel | SpringBoot | React | Vue | Flutter
+  🛠️ Frameworks: Laravel | SpringBoot | React | Vue 
 </p>
 
 <p align="left">
-  🏗 Ferramentas: Docker | Github Actions | Figma | Linux
+  🏗 Ferramentas: Docker | Github Actions  | Linux
 </p>
 
 <p align="left">
